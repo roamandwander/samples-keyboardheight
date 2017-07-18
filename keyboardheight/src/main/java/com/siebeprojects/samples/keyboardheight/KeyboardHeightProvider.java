@@ -35,7 +35,7 @@ import android.view.ViewTreeObserver.OnGlobalLayoutListener;
 import android.view.WindowManager.LayoutParams;
 
 import android.widget.PopupWindow;
-
+import com.siebeprojects.samples.keyboardheight.library.R;
 
 /**
  * The keyboard height provider, this class uses a PopupWindow

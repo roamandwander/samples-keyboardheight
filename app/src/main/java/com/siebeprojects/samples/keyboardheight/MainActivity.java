@@ -27,6 +27,8 @@ import android.util.Log;
 import android.content.res.Configuration;
 import android.widget.RelativeLayout;
 
+import com.siebeprojects.samples.keyboardheight.KeyboardHeightObserver;
+
 /**
  * MainActivity that initialises the keyboardheight 
  * provider and observer. 
